@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 ## 訓練
 python train.py --env_id Hopper-v5
-# 或
+## or
 python train.py --env_id Walker2d-v5
 
 ## 評估
